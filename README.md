@@ -1,2 +1,2 @@
 # CosmosDB-VSCode
-Simple data input and extraction demo with LINQ and SQL asynchronous processing using Visual Studio Code and C#. Built with the guidance of Microsoft's MSLearn for Data Engineering
+Simple data input and extraction demo from an Azure CosmosDB data store with asynchronous processing of SQL and LINQ queries. Built using Visual Studio Code and C# with the guidance of Microsoft's MSLearn for Data Engineering
